@@ -9,6 +9,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [List](#list)
   - [Bandcamp](#bandcamp)
+  - [ChatGPT](#chatgpt)
   - [Fandom](#fandom)
   - [Genius](#genius)
   - [Goodreads](#goodreads)
@@ -42,6 +43,23 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 ### Bandcamp
 
 - [Tent](https://forgejo.sny.sh/sun/Tent) - A simple alternative front-end for Bandcamp. `PHP/FGEO-0.2`.
+
+**[⬆ back to top](#contents)**
+
+### ChatGPT
+
+> **Note:** While these front-ends are available to run locally and are generally more focused on privacy than OpenAI's ChatGPT interface, keep in mind that you're still relying on their API.
+
+- [Anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion. `TypeScript/MIT`.
+- [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT) - An alternative front-end for ChatGPT. `TypeScript/CC0-1.0`.
+- [ChatGPT-web](https://github.com/Niek/chatgpt-web) - A simple one-page web interface to the OpenAI ChatGPT API. `Svelte/GPL-3.0`.
+- [LLM Multitool](https://github.com/sedwards2009/llm-multitool) - A local web UI for working with large language models. `Go/MIT`.
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - An alternative front-end for LLMs from multiple companies, including OpenAI and Anthropic. `TypeScript/MIT`.
+- [Open WebUI](https://github.com/open-webui/open-webui) - An user-friendly front-end for LLMs. `Python/MIT`.
+- [Quivr](https://github.com/QuivrHQ/quivr) - A privacy-focused alternative front-end for several LLMs. `TypeScript/Apache-2.0`.
+- [Reflex Chat](https://github.com/reflex-dev/reflex-chat) - An user-friendly ChatGPT clone built in Reflex. `Python/MIT`. 
+- [RustGPT](https://github.com/bitswired/rustgpt) - A web ChatGPT clone entirely crafted using Rust and HTMX. `Rust/AGPL-3.0`.
+- [YakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI. `TypeScript/MIT`.
 
 **[⬆ back to top](#contents)**
 
