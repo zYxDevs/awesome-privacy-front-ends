@@ -10,6 +10,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 - [List](#list)
   - [Bandcamp](#bandcamp)
   - [Bilibili](#bilibili)
+  - [BlueSky](#bluesky)
   - [ChatGPT](#chatgpt)
   - [Fandom](#fandom)
   - [Genius](#genius)
@@ -47,6 +48,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 ### Bilibili
 
 - [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - An alternative front-end for Bilibili similar to Invidious. `Python/AGPL-3.0`.
+
+### BlueSky
+
+- [Skyview](https://github.com/badlogic/skyview) - A simple thread reader for Bluesky. `TypeScript/MIT`.
 
 ### ChatGPT
 
