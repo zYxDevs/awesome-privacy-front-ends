@@ -28,7 +28,6 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [TikTok](#tiktok)
   - [Tumblr](#tumblr)
   - [Twitch](#twitch)
-  - [Twitter](#twitter)
   - [Ultimate Guitar](#ultimate-guitar)
   - [Urban Dictionary](#urban-dictionary)
   - [Wikipedia](#wikipedia)
@@ -74,7 +73,6 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 ### Google Translate
 
-- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate. `TypeScript/AGPL-3.0`.
 - [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate) - A privacy friendly frontend for multiple translation websites. `Go/AGPL-3.0`.
 
 ### Gravatar
@@ -139,10 +137,6 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) - A privacy-respecting front-end for Twitch. `TypeScript/AGPL-3.0`.
 - [Twineo](https://codeberg.org/CloudyyUw/twineo) - A privacy-focused alternative front-end to Twitch. `TypeScript/AGPL-3.0`.
-
-### Twitter
-
-- [Nitter](https://github.com/zedeus/nitter) - A free and open source alternative Twitter front-end focused on privacy and performance. `Nim/AGPL-3.0`.
 
 ### Ultimate Guitar
 
