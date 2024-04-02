@@ -55,6 +55,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 - [Anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion. `TypeScript/MIT`.
 - [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT) - An alternative front-end for ChatGPT. `TypeScript/CC0-1.0`.
 - [ChatGPT-web](https://github.com/Niek/chatgpt-web) - A simple one-page web interface to the OpenAI ChatGPT API. `Svelte/GPL-3.0`.
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. `TypeScript/MIT`.
 - [LLM Multitool](https://github.com/sedwards2009/llm-multitool) - A local web UI for working with large language models. `Go/MIT`.
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) - An alternative front-end for LLMs from multiple companies, including OpenAI and Anthropic. `TypeScript/MIT`.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An user-friendly front-end for LLMs. `Python/MIT`.
