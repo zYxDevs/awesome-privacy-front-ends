@@ -14,6 +14,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [ChatGPT](#chatgpt)
   - [Fandom](#fandom)
   - [Genius](#genius)
+  - [Gitlab](#gitlab)
   - [Goodreads](#goodreads)
   - [Google Translate](#google-translate)
   - [Gravatar](#gravatar)
@@ -78,6 +79,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [Dumb](https://github.com/rramiachraf/dumb) - Private alternative front-end for Genius. `Go/MIT`.
 - [Intellectual](https://github.com/Insprill/intellectual) - Alternate front-end for Genius focused on privacy and simplicity. `Rust/AGPL-3.0`.
+
+### Gitlab
+
+- [Laboratory](https://git.vitali64.duckdns.org/utils/laboratory.git/about/) - A simple Gitlab front-end. `Python/AGPL-3.0`.
 
 ### Goodreads
 
