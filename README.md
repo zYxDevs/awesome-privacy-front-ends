@@ -24,6 +24,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [Pinterest](#pinterest)
   - [Pixiv](#pixiv)
   - [Quora](#quora)
+  - [Reddit](#reddit)
   - [Reuters](#reuters)
   - [Search Engines](#search-engines)
   - [Stack Overflow](#stack-overflow)
@@ -119,6 +120,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 ### Quora
 
 - [Quetre](https://github.com/zyachel/quetre) - An alternative front-end to Quora that enables you to see answers without ads, trackers, and other such bloat. `JavaScript/AGPL-3.0`.
+
+### Reddit
+
+- [Redlib](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit. `Rust/AGPL-3.0`.
 
 ### Reuters
 
