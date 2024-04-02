@@ -9,6 +9,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 
 - [List](#list)
   - [Bandcamp](#bandcamp)
+  - [Bilibili](#bilibili)
   - [ChatGPT](#chatgpt)
   - [Fandom](#fandom)
   - [Genius](#genius)
@@ -42,6 +43,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 ### Bandcamp
 
 - [Tent](https://forgejo.sny.sh/sun/Tent) - A simple alternative front-end for Bandcamp. `PHP/FGEO-0.2`.
+
+### Bilibili
+
+- [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - An alternative front-end for Bilibili similar to Invidious. `Python/AGPL-3.0`.
 
 ### ChatGPT
 
