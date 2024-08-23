@@ -12,6 +12,7 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
   - [Bilibili](#bilibili)
   - [BlueSky](#bluesky)
   - [ChatGPT](#chatgpt)
+  - [Chefkoch](#chefkoch)
   - [Fandom](#fandom)
   - [Genius](#genius)
   - [GitLab](#gitlab)
@@ -70,6 +71,10 @@ A curated list of _awesome_ alternative front-ends to popular services such as Y
 - [Reflex Chat](https://github.com/reflex-dev/reflex-chat) - An user-friendly ChatGPT clone built in Reflex. `Python/MIT`. 
 - [RustGPT](https://github.com/bitswired/rustgpt) - A web ChatGPT clone entirely crafted using Rust and HTMX. `Rust/AGPL-3.0`.
 - [YakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI. `TypeScript/MIT`.
+
+### Chefkoch
+
+- [GoCook](https://github.com/NoUmlautsAllowed/gocook) - An alternative front-end to Chefkoch with a focus on privacy. `Go/MIT`.
 
 ### Fandom
 
